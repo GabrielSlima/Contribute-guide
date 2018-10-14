@@ -12,14 +12,14 @@ been doing to learn and so on.
 
 ## LETS START
 1.  Learn a programming language:
-    1.  You can begin with Python or JavaScript;
-    1.  First use the official tutorial of those languages, you can find them in their own website
+    1.  You can begin with Python or JavaScript.
+    1.  First use the official tutorial of those languages, you can find them in their own website.
     
-1.  Build a bunch of projects that you wanna, dont care about the others, just build, find challenges and solve them, practice a lot
+1.  Build a bunch of projects that you wanna, dont care about the others, just build, find challenges and solve them, practice a lot.
 
 1.  When you feel a bit more confident you can begin to contribuite, and here are some tips:
     1.  YOU DON'T NEED TO BE A MASTER TO BEGIN TO CONTRIBUTE, you can contribute just translating one project to English or vise-versa, you can
     improve the readme.md file of one project, you can improve your own project, you can improve the project of your friend and so on.
-## HACKTOBERFETS
-If you never did a pull request hacktoberfets is the place for you!
+## HACKTOBERFEST
+If you never did a pull request hacktoberfets is the place for you: 
 https://hacktoberfest.digitalocean.com/
