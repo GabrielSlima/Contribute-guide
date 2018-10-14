@@ -3,7 +3,7 @@ I'm a beginner right now and I did have trouble to find some information about w
 In reality it will be kind of a list of materials that you can use to learn more about programming and start to contribute with the 
 tech communicty 
 ## WHY CONTRIBUTE
-1.  If you're trying, for any reason, a job in the programming field it will be like a portifolio where recruiters can see what have you 
+1.  If you're trying, for any reason, get a job in the programming field it will be like a portifolio where recruiters can see what have you 
 been doing to learn and so on.
 
 1.  If you just wanna knowledge you're in the right place, you can learn a lot trying to help others people to improve their projects.
